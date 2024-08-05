@@ -41,7 +41,12 @@ Dataset Description emp_record_table: It contains the information of all the emp
 11. Write a query to create a view that displays employees in various countries whose salary is more than six thousand. Take data from the employee record table.
 12. Write a nested query to find employees with experience of more than ten years. Take data from the employee record table. Tasks to Perform Perform the following tasks on the dataset provided using SQL:
 13. Write a query to create a stored procedure to retrieve the details of the employees whose experience is more than three years. Take data from the employee record table. Perform the following tasks on the dataset provided using SQL:
-14. Write a query using stored functions in the project table to check whether the job profile assigned to each employee in the data science team matches the organization’s set standard The standard is given as follows: • Employee with experience less than or equal to 2 years, assign 'JUNIOR DATA SCIENTIST’ • Employee with experience of 2 to 5 years, assign 'ASSOCIATE DATA SCIENTIST’ • Employee with experience of 5 to 10 years, assign 'SENIOR DATA SCIENTIST’ • Employee with experience of 10 to 12 years, assign 'LEAD DATA SCIENTIST’, • Employee with experience of 12 to 16 years, assign 'MANAGER' Tasks to Perform Perform the following tasks on the dataset provided using SQL:
-15. Crea te an index to improve the cost and performance of the query to find the employee whose FIRST_NAME is ‘Eric’ in the employee table after checking the execution plan.
-16. Write a query to calculate the bonus for all the employees, based on their ratings and salaries (Use the formula: 5% of salary * employee rating).
-17. Write a query to calculate the average salary distribution based on the continent and country. Take data from the employee record table.
+14. Write a query using stored functions in the project table to check whether the job profile assigned to each employee in the data science team matches the organization’s set standard The standard is given as follows:
+• Employee with experience less than or equal to 2 years, assign 'JUNIOR DATA SCIENTIST’
+• Employee with experience of 2 to 5 years, assign 'ASSOCIATE DATA SCIENTIST’
+• Employee with experience of 5 to 10 years, assign 'SENIOR DATA SCIENTIST’
+• Employee with experience of 10 to 12 years, assign 'LEAD DATA SCIENTIST’,
+• Employee with experience of 12 to 16 years, assign 'MANAGER' Tasks to Perform Perform the following tasks on the dataset provided using SQL:
+16. Create an index to improve the cost and performance of the query to find the employee whose FIRST_NAME is ‘Eric’ in the employee table after checking the execution plan.
+17. Write a query to calculate the bonus for all the employees, based on their ratings and salaries (Use the formula: 5% of salary * employee rating).
+18. Write a query to calculate the average salary distribution based on the continent and country. Take data from the employee record table.
